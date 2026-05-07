@@ -4,7 +4,7 @@
 - 💻 Desarrollador Web
 - 🌎 Ixtenco, Tlaxcala Mexico 
 
-## 🔭 Current Projects
+## 🔭 Proyectos Desarrollados
 - Desarrollado: **Sistema Web Institucional SIIUTTLAX** con autenticacion y roles 
 - Desarrollado: **HiveBot** sistema de comida automatica para abejas
 

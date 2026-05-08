@@ -53,7 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/neo4j.svg" width="45"/>
+<img src="https://cdn.simpleicons.org/neo4j/008CC1" width="45"/>
 
 </td>
 
@@ -71,9 +71,15 @@
 # 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alampf&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  
-  <img src="https://streak-stats.demolab.com?user=alampf&theme=radical&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alampf&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=alampf&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
@@ -81,13 +87,22 @@
 # 🛠️ Tecnologías más utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alampf&layout=compact&theme=radical&hide_border=true" height="180"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alampf&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alampf&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alampf&theme=tokyonight" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alampf&theme=radical" height="180"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alampf&theme=tokyonight" 
+    height="180"
+  />
 </p>
 
 ---
@@ -95,7 +110,9 @@
 ## 🏆 Trofeos GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alampf&theme=radical&row=1&column=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=alampf&theme=tokyonight&row=1&column=6" 
+  />
 </p>
 
 ---

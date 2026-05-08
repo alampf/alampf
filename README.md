@@ -70,50 +70,48 @@
 
 # 📊 Actividad
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alampf&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+<div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=alampf&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=alampf&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="180"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=alampf&theme=tokyonight&hide_border=true" 
+  height="180"
+/>
+
+</div>
 
 ---
 
 # 🛠️ Tecnologías más utilizadas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alampf&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+<div align="center">
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alampf&theme=tokyonight" 
-    height="180"
-  />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alampf&layout=compact&theme=tokyonight&hide_border=true" 
+  height="180"
+/>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alampf&theme=tokyonight" 
-    height="180"
-  />
-</p>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alampf&theme=tokyonight" 
+  height="180"
+/>
 
----
+</div>
 
-## 🏆 Trofeos GitHub
+<br>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=alampf&theme=tokyonight&row=1&column=6" 
-  />
-</p>
+<div align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alampf&theme=tokyonight" 
+  height="180"
+/>
+
+</div>
 
 ---
 

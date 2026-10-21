@@ -40,7 +40,7 @@
 
 <div align="center">
   <p>
-    Explora mi portafolio profesional, donde encontrarás información
+    Explora mi portafolio, donde encontrarás información
     sobre mis habilidades, tecnologías y proyectos de desarrollo de software.
   </p>
   <a href="https://alampf.github.io/alan-portfolio/" target="_blank">
@@ -123,39 +123,87 @@
 
 ---
 
+
 ## Proyectos destacados
 
-### Sistema Institucional SIIUTTLAX
+### Proyectos profesionales
 
-Sistema web institucional que permite gestionar usuarios y controlar el acceso a diferentes funcionalidades mediante autenticación y roles.
+#### Sistema Institucional SIIUTTLAX
+
+Sistema web institucional orientado a la gestión de usuarios y al control de acceso a diferentes funcionalidades mediante autenticación y roles.
+
+**Tecnologías:** Angular, TypeScript, Tailwind CSS, Django, REST API, Postman
 
 **Características principales:**
 - Autenticación y gestión de usuarios.
 - Administración de roles y permisos.
 - Control de acceso a funcionalidades institucionales.
 
-### HiveBot
+**Estado:** Finalizado.
 
-Proyecto tecnológico orientado a la automatización de la alimentación de abejas mediante un sistema de suministro de alimento.
+---
 
-**Características principales:**
-- Automatización del proceso de alimentación.
-- Aplicación de tecnología en actividades apícolas.
+### Proyectos personales
 
-### POS Demo | Sistema de Punto de Venta
+#### POS Demo | Sistema de Punto de Venta
 
-Sistema de punto de venta desarrollado con Django, orientado a la administración de pequeños y medianos negocios.
+Sistema de punto de venta desarrollado con Django, diseñado para facilitar la administración de pequeños y medianos negocios.
+
+El proyecto busca ofrecer una solución modular y adaptable a diferentes giros comerciales, como ferreterías, papelerías y tiendas de abarrotes.
 
 **Tecnologías:** Python, Django, PostgreSQL, HTML, CSS y JavaScript.
 
-**Funcionalidades del proyecto:**
+**Funcionalidades principales:**
 - Gestión de productos, categorías y proveedores.
-- Administración de inventario y movimientos.
-- Registro de compras y ventas.
-- Control de caja y gestión de usuarios mediante roles.
-- Reportes e indicadores del negocio.
+- Administración de inventario y movimientos de existencias.
+- Registro y control de compras y ventas.
+- Gestión de usuarios mediante roles y permisos.
+- Administración de caja y movimientos de efectivo.
+- Generación de reportes e indicadores del negocio.
+
+**Proyección comercial:**
+
+Desarrollado inicialmente como una versión demostrativa, con el objetivo de comercializarlo posteriormente y ofrecer implementaciones personalizadas según las necesidades de cada cliente.
 
 **Estado:** En desarrollo.
+
+---
+
+### Proyectos académicos
+
+### Sabix Delivery
+
+Proyecto enfocado al desarrollo de una plataforma digital para la gestion de pedidos y entregas a domicilio.
+
+**Tecnologías:** Flutter, Dart, Django, REST API.
+
+**Características principales:**
+- Gestión de usuarios y autenticación.
+- Administración en las direcciones de entrega.
+- Registro y seguimiento de pedidos.
+- Comunicación entre clientes y repartidores.
+- Diseño de funcionalidades mediante historias de usuario.
+- Aplicación de metodologías ágiles durante el desarrollo.
+
+**Tipo:** Proyecto integrador universitario.
+
+**Estado:** En desarrollo.
+
+#### HiveBot
+
+Proyecto tecnológico orientado a la automatización de la alimentación de abejas mediante un sistema de suministro de alimento.
+
+**Tecnologías:** Flutter, Dart, Firebase.
+
+**Características principales:**
+- Automatización en el proceso de alimentación.
+- Aplicación de tecnología en actividades apículturales.
+- Manejo de datos en tiempo real.
+- Alertas de subministro bajo de alimento.
+
+**Tipo:** Proyecto integrador universitario.
+
+**Estado:** Finalizado. 
 
 ---
 
@@ -173,9 +221,12 @@ Sistema de punto de venta desarrollado con Django, orientado a la administració
 ## Contacto
 
 <div align="center">
-  <a href="mailto:alanpatlani65@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <p>
+    Correo electrónico:
+    <a href="mailto:alanpatlani65@gmail.com">
+      alanpatlani65@gmail.com
+    </a>
+  </p>
   <a href="https://linkedin.com/in/alan-patlani-flores-346842317">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

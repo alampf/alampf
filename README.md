@@ -36,6 +36,22 @@
 
 ---
 
+## Mi portafolio
+
+<div align="center">
+  <p>
+    Explora mi portafolio profesional, donde encontrarás información
+    sobre mis habilidades, tecnologías y proyectos de desarrollo de software.
+  </p>
+  <a href="https://alampf.github.io/alan-portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Visitar%20mi%20Portafolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visitar mi portafolio"
+    />
+  </a>
+</div>
+
+---
 
 ## Tecnologías y herramientas
 

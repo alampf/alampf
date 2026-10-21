@@ -11,6 +11,14 @@
 
 <h3 align="center">💻 Desarrollador de Software | Backend · Web · Móvil</h3>
 
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=alampf&label=Visualizaciones%20del%20perfil&color=2563eb&style=for-the-badge"
+    alt="Visualizaciones del perfil de GitHub"
+  />
+</div>
+
+
 ---
 
 ## 🚀 Sobre mí

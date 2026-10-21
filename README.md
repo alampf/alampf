@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hola, soy Alan Patlani Flores</h1>
+<h1 align="center">Hola, soy Alan Patlani Flores</h1>
 
 <div align="center">
   <img
@@ -9,7 +9,7 @@
   />
 </div>
 
-<h3 align="center">💻 Desarrollador de Software | Backend · Web · Móvil</h3>
+<h3 align="center">Desarrollador de Software | Backend · Web · Móvil</h3>
 
 <div align="center">
   <img
@@ -21,25 +21,25 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-🎓 Estudiante de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica de Tlaxcala.
+Estudiante de **Ingeniería en Desarrollo y Gestión de Software** en la Universidad Tecnológica de Tlaxcala.
 
-📍 Tlaxcala, México.
+Tlaxcala, México.
 
-💻 Desarrollador de aplicaciones web y multiplataforma, con conocimientos en **Python, Django, Angular, TypeScript, Flutter y bases de datos SQL y NoSQL**.
+Desarrollador de aplicaciones web y multiplataforma, con conocimientos en **Python, Django, Angular, TypeScript, Flutter y bases de datos SQL y NoSQL**.
 
-🔭 Interesado en desarrollo backend, arquitectura de software y creación de soluciones tecnológicas escalables, seguras y eficientes.
+Interesado en desarrollo backend, arquitectura de software y creación de soluciones tecnológicas escalables, seguras y eficientes.
 
-🌱 En constante aprendizaje, fortaleciendo mis habilidades técnicas y aplicando buenas prácticas de desarrollo.
+En constante aprendizaje, fortaleciendo mis habilidades técnicas y aplicando buenas prácticas de desarrollo.
 
-🎯 Actualmente busco oportunidades para realizar mis **estadías profesionales**, participar en proyectos reales y continuar desarrollándome profesionalmente.
+Actualmente busco oportunidades para realizar mis **estadías profesionales**, participar en proyectos reales y continuar desarrollándome profesionalmente.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
@@ -58,14 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-### 📱 Desarrollo móvil
+### Desarrollo móvil
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
 </p>
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
@@ -74,7 +74,7 @@
   <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="45" height="45" alt="Neo4j"/>
 </p>
 
-### 🔧 Herramientas y servicios
+### Herramientas y servicios
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
@@ -85,9 +85,9 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🏫 Sistema Institucional SIIUTTLAX
+### Sistema Institucional SIIUTTLAX
 
 Sistema web institucional que permite gestionar usuarios y controlar el acceso a diferentes funcionalidades mediante autenticación y roles.
 
@@ -96,7 +96,7 @@ Sistema web institucional que permite gestionar usuarios y controlar el acceso a
 - Administración de roles y permisos.
 - Control de acceso a funcionalidades institucionales.
 
-### 🐝 HiveBot
+### HiveBot
 
 Proyecto tecnológico orientado a la automatización de la alimentación de abejas mediante un sistema de suministro de alimento.
 
@@ -104,7 +104,7 @@ Proyecto tecnológico orientado a la automatización de la alimentación de abej
 - Automatización del proceso de alimentación.
 - Aplicación de tecnología en actividades apícolas.
 
-### 🛒 POS Demo | Sistema de Punto de Venta
+### POS Demo | Sistema de Punto de Venta
 
 Sistema de punto de venta desarrollado con Django, orientado a la administración de pequeños y medianos negocios.
 
@@ -117,22 +117,22 @@ Sistema de punto de venta desarrollado con Django, orientado a la administració
 - Control de caja y gestión de usuarios mediante roles.
 - Reportes e indicadores del negocio.
 
-**Estado:** 🚧 En desarrollo.
+**Estado:** En desarrollo.
 
 ---
 
-## 🎯 Objetivos profesionales
+## Objetivos profesionales
 
-- 💻 Fortalecer mis conocimientos en desarrollo backend y arquitectura de software.
-- 🌐 Participar en proyectos de desarrollo web y multiplataforma.
-- 🧩 Aplicar patrones de diseño, buenas prácticas y metodologías ágiles.
-- 🤝 Colaborar con equipos de desarrollo y adquirir experiencia profesional.
-- 🚀 Desarrollar soluciones de software eficientes, seguras y mantenibles.
-- 📚 Continuar aprendiendo nuevas tecnologías y herramientas.
+- Fortalecer mis conocimientos en desarrollo backend y arquitectura de software.
+- Participar en proyectos de desarrollo web y multiplataforma.
+- Aplicar patrones de diseño, buenas prácticas y metodologías ágiles.
+- Colaborar con equipos de desarrollo y adquirir experiencia profesional.
+- Desarrollar soluciones de software eficientes, seguras y mantenibles.
+- Continuar aprendiendo nuevas tecnologías y herramientas.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
   <a href="mailto:alanpatlani65@gmail.com">
@@ -149,5 +149,5 @@ Sistema de punto de venta desarrollado con Django, orientado a la administració
 ---
 
 <div align="center">
-  <strong>✨ Gracias por visitar mi perfil ✨</strong>
+  <strong> Gracias por visitar mi perfil </strong>
 </div>

@@ -1,12 +1,12 @@
+
 <h1 align="center">👋 Hola, soy Alan Patlani Flores</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Desarrollando+aplicaciones+reales;Python%2C+Django%2C+CSS;Flutter%2C+Dart;Angular%2C+TypeScript;Tratando+de+mejorar+cada+d%C3%ADa;Aprendiendo+cada+d%C3%ADa"
-      alt="Animación de presentación y tecnologías"
-    />
-  </a>
+  <img
+    src="./typing.svg"
+    alt="Presentación animada de Alan Patlani Flores"
+    width="100%"
+  />
 </div>
 
 <h3 align="center">💻 Desarrollador de Software | Backend · Web · Móvil</h3>
@@ -81,7 +81,7 @@
 
 ### 🏫 Sistema Institucional SIIUTTLAX
 
-Sistema web institucional que permite gestionar usuarios y controlar el acceso a las diferentes funcionalidades mediante autenticación y roles.
+Sistema web institucional que permite gestionar usuarios y controlar el acceso a diferentes funcionalidades mediante autenticación y roles.
 
 **Características principales:**
 - Autenticación y gestión de usuarios.
